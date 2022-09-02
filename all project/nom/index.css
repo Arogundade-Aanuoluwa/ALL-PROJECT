@@ -1,0 +1,75 @@
+.all{
+display: flex;
+justify-content: center;
+padding-top: 50px;
+}
+
+.page{
+    background-color: white;
+    padding: 30px;
+    
+}
+#class{
+    color: grey;
+    background-color: white;
+    letter-spacing: 3px;
+}
+h2{
+    font-size: 1.8em;
+    background-color: white;
+}
+.flora{
+    color: grey;
+    background-color: white;
+}
+.dollar{
+    color: green;
+    background-color: white;
+}
+.small{
+    color: grey;
+    text-decoration: line-through;
+    background-color: white;
+}
+*{
+    background-color: bisque;
+}
+span{
+    background-color: white;
+}
+
+.flora{
+    color: grey;
+    padding-top: 1em;
+    background-color: white;
+}
+.dollar{
+    color: green;
+    font-size: 1.3em;
+    background-color: white;
+}
+.small{
+    color: grey;
+    text-decoration: line-through;
+    font-size: 0.4em;
+    background-color: white;
+}
+#class{
+    color: grey;
+    letter-spacing: 0.3em;
+    padding-top: 0.6em;
+    background-color: white;
+}
+button{
+    padding: 10px 65px;
+    border-color: transparent;
+    background-color: green;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+} 
+.img2{
+    height: 13px;
+    padding-right: 5px;
+    background-color: green;
+}
